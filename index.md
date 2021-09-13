@@ -4,32 +4,18 @@
 
 ### 소속
 
-이화여자대학교 스크랜튼대학 스크랜튼학부 자유전공 20학번
+이화여자대학교 
 
-```markdown
-Syntax highlighted code block
+경제학 주전공
 
-# Header 1
-## Header 2
-### Header 3
+스크랜튼학부 자기설계 과학융합트랙 / 계산과학 복수전공
 
-- Bulleted
-- List
+### 연락처
 
-1. Numbered
-2. List
+cde1005@ewhain.net 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 경력 및 활동
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daeun-Chi/Daeun-Chi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
